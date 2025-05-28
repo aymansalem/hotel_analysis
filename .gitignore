@@ -1,0 +1,7 @@
+/.qodo
+/.vscode
+/CREATE DATABASE hotel_analysis;.sql
+/CSV_files
+/hotel_analysis.session.sql
+/hotel_id.sql
+/SELECT.sql
